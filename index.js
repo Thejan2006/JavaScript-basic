@@ -14,7 +14,14 @@
 // console.log(age);    
 
 // calculate 
-
-// let radius = 5;
-// let area = Math.PI * radius * radius;
-// console.log(area)
+let a = 10
+let b = 20
+let c = 30
+let d = 40
+let e = 50
+let f = 60
+let g = 70
+let h = 80
+let i = 90
+let j = 100
+console.log(a + b + c + d + e + f + g + h + i + j)
