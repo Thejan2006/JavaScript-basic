@@ -13,3 +13,8 @@
 // let age = 20;
 // console.log(age);    
 
+// calculate 
+
+// let radius = 5;
+// let area = Math.PI * radius * radius;
+// console.log(area)
